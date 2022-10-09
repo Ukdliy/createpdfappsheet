@@ -1,0 +1,3 @@
+[_thisrow_before].[UPDATE PDF]<>[_thisrow_after].[UPDATE PDF]
+[NAMA PEGAWAI]&"-"&[UPDATE PDF]
+CONCATENATE("/folder1/folder2/",[NAMA PEGAWAI]&"-"&[UPDATE PDF],".pdf")
